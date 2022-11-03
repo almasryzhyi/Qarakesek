@@ -1,0 +1,280 @@
+body{
+  margin: 0;
+
+}
+.header{
+  background-color: #41345d;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  position: relative;
+}
+.panam{
+
+  height: 100px;
+}
+
+.icons{
+  width: 30px;
+  padding: 7px;
+  display: inline-block;
+  border-radius: 100%;
+}
+.iconi:hover{
+  opacity: 0.5;
+}
+.icony:hover{
+  opacity: 0.5;
+}
+.iconss:hover{
+  opacity: 0.5;
+}
+.icon{
+
+  position: absolute;
+  top: 25px;
+  right: 30px;
+}
+.banner{
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+.QRS{
+  position: absolute;
+  top: 40%;
+  right: 10%;
+
+}
+.an{
+  font-size: 70px;
+  margin: 0;
+font-family: 'Carattere', cursive;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  color: white;
+}
+.QR{
+  font-family: 'Oswald', sans-serif;
+  color: #A3C7D6;
+  font-size: 300%;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  padding: 0;
+  margin: 0;
+}
+.QR2{
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  color: #A3C7D6;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.mySlides{
+  border-radius: 5px;
+  width: 400px;
+}
+
+.boder{
+  text-align: center;
+  background-color: #41345d;
+  width: 100%;
+  padding-top:  50px;
+  position: relative;
+}
+.boderT{
+  display: inline-block;
+  font-family: 'Rajdhani', sans-serif;
+  color: #A3C7D6;
+  padding-right: 10px;
+}
+.h1tour{
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Bungee Shade', cursive;
+}
+.tours{
+  margin: auto;
+  width: 60%;
+  position: relative;
+  margin-bottom: 50px;
+}
+.tour{
+position:relative;
+height: 100px;
+margin: 0;
+padding: 0 0 0 10px ;
+  transition: transform 1s;
+
+}
+.tour:hover{
+  background-color: #9F73AB;
+  transform: translateX(10px);
+
+}
+
+.tour1{
+position:relative;
+height: 100px;
+margin: 0;
+padding: 0 0 0 10px ;
+  transition: transform 1s;
+}
+.tour1:hover{
+  background-color: #9F73AB;
+  transform: translateX(10px);
+}
+.tour2{
+position:relative;
+height: 100px;
+margin: 0;
+padding: 0 0 0 10px ;
+transition: transform 1s;
+}
+.tour2:hover{
+  background-color: #9F73AB;
+  transform: translateX(10px);
+}
+.date{
+  display: inline-block;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 30px;
+}
+.stadium{
+  display: inline-block;
+  position: absolute;
+  top: 40px;
+  left: 10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}
+.city{
+  display: inline-block;
+  position: absolute;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  top: 40px;
+  left: 50%;
+}
+.ticket{
+  display: inline-block;
+  position: absolute;
+  top: 20%;
+  right:  50px;
+  padding: 5px 25px 5px 25px;
+  border-style: solid;
+  border-radius: 3px;
+
+}
+.ticket:hover{
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+.back-image{
+  background: linear-gradient(4deg, rgba(24,22,62,1) 16%, rgba(41,38,82,1) 28%, rgba(63,59,108,1) 44%);
+
+
+}
+.audios{
+
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 73%;
+  position: relative;
+}
+.audio1{
+  position: relative;
+  width: 200px;
+  height: 240px;
+  background-color: #231f49;
+  display: inline-block;
+  margin-right: 2%;
+  text-align: center;
+  border-radius: 5px;
+  font-family: 'Oswald', sans-serif;
+}
+.audio1:hover{
+  background-color: #363161;
+}
+
+.audio2:hover{
+  background-color: #363161;
+}
+
+.audio3:hover{
+  background-color: #363161;
+}
+
+.audio4:hover{
+  background-color: #363161;
+}
+
+.audio5:hover{
+  background-color: #363161;
+}
+.audio2{
+  position: relative;
+  background-color: #231f49;
+  width: 200px;
+  height: 240px;
+  display: inline-block;
+  margin-right: 2%;
+  text-align: center;
+  border-radius: 5px;
+  font-family: 'Oswald', sans-serif;
+}
+.audio3{
+  position: relative;
+  width: 200px;
+  height: 240px;
+  background-color: #231f49;
+  display: inline-block;
+  margin-right: 2%;
+  text-align: center;
+  border-radius: 5px;
+  font-family: 'Oswald', sans-serif;
+}
+.audio4{
+  position: relative;
+  background-color: #231f49;
+  width: 200px;
+  height: 240px;
+  display: inline-block;
+  margin-right: 2%;
+  text-align: center;
+  border-radius: 5px;
+  font-family: 'Oswald', sans-serif;
+}
+.audio5{
+  position: relative;
+  background-color: #231f49;
+  width: 200px;
+  height: 240px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 5px;
+  font-family: 'Oswald', sans-serif;
+}
+.auu{
+  width: 100px;
+}
+.muzicon{
+  margin-top: 10px;
+  width: 80%;
+  height: 150px;
+  border-radius: 5px;
+
+}
+.muztext{
+font-size: 20px;
+margin: 0;
+color: white;
+font-family: 'Rajdhani', sans-serif;
+}
